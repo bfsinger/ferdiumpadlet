@@ -1,0 +1,9 @@
+{
+  "id": "padlet",
+  "name": "Padlet",
+  "version": "1.0.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://padlet.com/"
+  }
+}
